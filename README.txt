@@ -8,3 +8,4 @@
 8.Run it 
 9.Go to more info and runanyways
 10.HAVE FUN!
+Turn back on when done running
